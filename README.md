@@ -17,3 +17,5 @@ Got the game? Beat it to the end? Got the secret ending? Excellent! Now you can 
 6. Find the menu that says "Audio Language"
 7. Select Memeish
 8. Done! Optimally, you should also change Text Language too, but eh
+
+All mixing and recording was done in REAPER.
